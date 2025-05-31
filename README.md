@@ -1,2 +1,2 @@
 # games
-games made by itay
+games made by itay for friends
